@@ -1,8 +1,6 @@
 # Freedium-Broswer-Extension
 Quickly read Medium members-only articles for free using Freedium
 
-# Freedium Helper Extension
-
 Freedium Helper is a lightweight Chrome extension designed to simplify the process of reading Medium members-only articles for free using [Freedium](https://freedium.cfd). This project is in no way affiliated with or claims credit for what Freedium is doing; it merely aims to lend a helping hand by easing the process.
 
 ---
