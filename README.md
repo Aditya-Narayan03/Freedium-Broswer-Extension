@@ -20,7 +20,7 @@ Follow these steps to install the extension:
 1. **Clone or Download the Repository**
    - Clone the repository using:
      ```bash
-     git clone https://github.com/your-username/freedium-helper.git
+     [git clone https://github.com/Aditya-Narayan03/freedium-helper.git](https://github.com/Aditya-Narayan03/Freedium-Broswer-Extension.git)
      ```
    - Alternatively, download the repository as a ZIP file and extract it.
 
